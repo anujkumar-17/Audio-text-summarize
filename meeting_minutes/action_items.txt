@@ -1,3 +1,0 @@
-- This is where action items will go.
-- Action item 2.
-- Action item 3.
