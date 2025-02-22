@@ -72,7 +72,7 @@ Example setup steps:
 
    pip install uv
 
-4. Create a .env file in the backend directory and add the following configuration variables:
+4. Create a .env file in your project folder and add the following configuration variables:
 
    PORT=<your_port_number>
 
