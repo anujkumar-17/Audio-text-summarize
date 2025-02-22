@@ -74,10 +74,10 @@ Example setup steps:
 
 4. Create a .env file in your project folder and add the following configuration variables:
 
-   PORT=<your_port_number>
-
    OPENAI_API_KEY = <key>
+
    WHISPER_API_KEY = <key>
+   
    WHISPER_DEPLOYMENT_NAME = <deployment>
 
 
